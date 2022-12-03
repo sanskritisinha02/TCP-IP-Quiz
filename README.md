@@ -1,1 +1,3 @@
-# TCP-IP-Quiz
+A network has been designed for conducting quiz competitions which can have multiple users or participants. The organization hosts a quiz competition on a server which is accessible to internet users using the public IP address.
+A network was designed using the Python programming language. The basic requirements were tested. A server was set up, which can have connections with multiple users. Clients or users can play a quiz online and each client can view the score of the other participants. Also, a buzzer is provided there whoever will press it first will answer first. If the user guesses the correct answer he gets +1 score and if we guess wrong one then he gets -1 score. In the end, the winner is broadcast with the score.
+
